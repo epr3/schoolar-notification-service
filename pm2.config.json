@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "notification_service",
+      "script": "./src/index.js",
+      "watch": "./src"
+    }
+  ]
+}
