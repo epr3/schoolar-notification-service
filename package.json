@@ -13,6 +13,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^8.0.0",
+    "ejs": "^2.6.1",
+    "email-templates": "^5.0.5",
     "ioredis": "^4.9.0",
     "kue": "^0.11.6",
     "nodemailer": "^6.1.1"
