@@ -14,7 +14,6 @@ queue.setMaxListeners(100);
 
 const sendMail = async (job, done) => {
   try {
-    console.log(path.join(__dirname, '..', 'emails'));
     await email.send({
       message: {
         from: 'administration@schoolar.io',
