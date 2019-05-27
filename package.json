@@ -18,7 +18,8 @@
     "email-templates": "^5.0.5",
     "ioredis": "^4.9.0",
     "kue": "^0.11.6",
-    "nodemailer": "^6.1.1"
+    "nodemailer": "^6.1.1",
+    "nodemailer-sendgrid-transport": "^0.2.0"
   },
   "devDependencies": {
     "cross-env": "^5.2.0",
